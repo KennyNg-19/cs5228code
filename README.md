@@ -17,7 +17,7 @@ Code
 ｜--models.zip # Directory contains our trained models
 			|--- xxx.model
 ｜--predict # Directory contains our prediction results
-			|---xxx.csv
+			|--- xxx.csv
 ｜--test_add_aux.csv # add_aux.ipynb output csv file(test)
 ｜--test.csv # Original test dataset
 ｜--train_add_aux.csv# add_aux.ipynb output csv file(train) 
