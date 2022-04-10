@@ -13,7 +13,7 @@ Code
 		｜---sg-xxx.csv
 ｜--input_test_before_EncNorm.csv # 1feat_process_eng.ipynb output csv file(test)
 ｜--input_train_features_before_EncNorm.csv # 1feat_process_eng.ipynb output csv file(train) 
-｜--model_input_train_prices.csv# csv file for Price 
+｜--model_input_train_prices.csv # csv file for Price 
 ｜--models.zip # Directory contains our trained models
 			|--- xxx.model
 ｜--predict # Directory contains our prediction results
